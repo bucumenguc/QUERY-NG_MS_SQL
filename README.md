@@ -4,3 +4,7 @@ Customers isimli bir veritabanı ve verilen veri setindeki değişkenleri içere
 
 Customers isimli veritabanını oluşturmak için aşağıdaki SQL komutu kullanıldı:
 ![Excel Import](image/1_adım.jpg)
+
+![Excel Import](image/2_adım.jpg)
+![Excel Import](image/3_adım.jpg)
+![Excel Import](image/4_adım.jpg)
